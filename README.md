@@ -1,2 +1,2 @@
-# LearningGitHub
+# GitHubLearning
 Learning how to use GitHub
