@@ -1,3 +1,3 @@
-#Display First Python
+#display First Python
 
 print("New Python File")
